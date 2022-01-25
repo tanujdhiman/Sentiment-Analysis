@@ -1,4 +1,4 @@
-# Sentiment-Analysis
+# Sentiment-Analysis (IN PROGRESS)
 
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.7-brightgreen.svg) 
 
